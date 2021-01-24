@@ -124,7 +124,6 @@ const Converter = () => {
                 <Text style={styles.currencyTexts}> 🇨🇦 CAD: {cad} </Text>
                 <Text style={styles.currencyTexts}> 🇯🇵 JPY: {jpy} </Text>
                 <Text style={styles.currencyTexts}> 🇦🇺 AUD: {aud} </Text>
-                debugger;
                 <Text style={styles.noteText}>Note: The datas above are hourly rates</Text>
 
             </View >
